@@ -1,0 +1,6 @@
+{
+  "name": "Đấu trường Pickleball",
+  "description": "Ứng dụng Đấu trường Pickleball - Xếp sân xoay vòng thông minh, theo dõi điểm số, bảng xếp hạng realtime, quản lý quỹ và phân quyền Admin/Member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
